@@ -5,15 +5,17 @@ import sys
 import csv
 import asyncio
 from pyppeteer import launch
+import urllib.parse
+from utils import getCssPath 
 
 
-async def main(request_url):
-    browser = await launch(headless=True)
-    page = await browser.newPage()
-    await page.goto(request_url)
-    content = await page.content()
-    await browser.close()
-    return content
+# async def main(request_url):
+#     browser = await launch(headless=True)
+#     page = await browser.newPage()
+#     await page.goto(request_url)
+#     content = await page.content()
+#     await browser.close()
+#     return content
 
 
 def css_path(element):
@@ -55,6 +57,8 @@ if __name__ == "__main__":
         input_rows = list(map(lambda line: line.split('\t'), f.readlines()))
     output = []
     for url, jsEnabled, *_ in input_rows:
+        encoded_url = urllib.parse.quote_plus(url)
+        print("Prorcessing " + encoded_url)
         r = requests.get(url)
         htmlContent = bytes()
 
@@ -65,7 +69,14 @@ if __name__ == "__main__":
 
         soup = BeautifulSoup(htmlContent, 'html5lib')
         links = soup.findAll(tag)
+        print(str(len(links)) + " Matched tags found")
         paths = [css_path(element) for element in links]
+        paths2 = [getCssPath(element) for element in links]
+
+        print("Complete processing: " + str(len(paths2)))
+        selectors_file = open("results/" + encoded_url + "-selectors.txt", "w")
+        for p in paths2:
+            selectors_file.write(p + "\n")
 
         for selector, count in Counter(paths).items():
             output.append([url, selector, count])

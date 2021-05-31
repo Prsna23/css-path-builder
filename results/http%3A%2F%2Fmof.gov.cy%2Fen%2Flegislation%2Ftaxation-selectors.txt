@@ -1,0 +1,201 @@
+body > #top
+body > #page_h > div.row_a > div > div > div > a
+body > #page_h > div.row_a > div > div > div > div.bmenu-bar.hidden-xs.hidden-sm > ul > li:nth-child(2) > a
+body > #page_h > div.row_a > div > div > div > div.bmenu-bar.hidden-xs.hidden-sm > ul > li:nth-child(3) > a
+body > #page_h > div.row_a > div > div > div > div.bmenu-bar.hidden-xs.hidden-sm > ul > li:nth-child(4) > a
+body > #page_h > div.row_a > div > div > div > div.bmenu-bar.hidden-xs.hidden-sm > ul > li.lang > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1.bm_lang.visible-xs-block.hidden-xs-block > li > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(1) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(2) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(3) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(4) > a.L1-a.anim_btn
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(4) > a.mob_show_sb.visible-xs-block.visible-sm-block
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(4) > ul > li:nth-child(1) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(4) > ul > li:nth-child(2) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(5) > a.L1-a.anim_btn
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(5) > a.mob_show_sb.visible-xs-block.visible-sm-block
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(5) > ul > li:nth-child(1) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(5) > ul > li:nth-child(2) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(6) > a.L1-a.anim_btn
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(6) > a.mob_show_sb.visible-xs-block.visible-sm-block
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(6) > ul > li:nth-child(1) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(6) > ul > li:nth-child(2) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(6) > ul > li:nth-child(3) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(6) > ul > li:nth-child(4) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(6) > ul > li:nth-child(5) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(6) > ul > li:nth-child(6) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(6) > ul > li:nth-child(7) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(6) > ul > li:nth-child(8) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(6) > ul > li:nth-child(9) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(6) > ul > li:nth-child(10) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(6) > ul > li:nth-child(11) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(6) > ul > li:nth-child(12) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(6) > ul > li:nth-child(13) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li:nth-child(6) > ul > li:nth-child(14) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li.sm_exist.active > a.L1-a.anim_btn
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li.sm_exist.active > a.mob_show_sb.visible-xs-block.visible-sm-block
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li.sm_exist.active > ul > li:nth-child(1) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li.sm_exist.active > ul > li:nth-child(2) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li.sm_exist.active > ul > li:nth-child(3) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li.sm_exist.active > ul > li.sm_exist.active > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li.sm_exist.active > ul > li:nth-child(5) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li.sm_exist.active > ul > li:nth-child(6) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li.sm_exist.active > ul > li:nth-child(7) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1 > li.sm_exist.active > ul > li:nth-child(8) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1.bm_L1.visible-xs-block.hidden-xs-block > li:nth-child(1) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1.bm_L1.visible-xs-block.hidden-xs-block > li:nth-child(2) > a
+body > #page_h > div.row_b > div > #mm_block > ul.L1.bm_L1.visible-xs-block.hidden-xs-block > li:nth-child(3) > a
+body > div.bcrumb_row > div > div > a:nth-child(1)
+body > div.bcrumb_row > div > div > a:nth-child(2)
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(1) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(1) > div > div > div > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(2) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(3) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(4) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(5) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(6) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(6) > div > div > div > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(7) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(7) > div > div > div > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(8) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(8) > div > div > div > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(9) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(9) > div > div > div > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(10) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(10) > div > div > div > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(11) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(12) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(13) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(14) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(15) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(15) > div > div > div > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(16) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(16) > div > div > div > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(17) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(18) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-8.col-md-9.pad-r-a > div > div:nth-child(19) > div > div > h2 > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(1) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(2) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(3) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(4) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(5) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(6) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(7) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(8) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(9) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(10) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(11) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(12) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(13) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(14) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(15) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(16) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(17) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(18) > a
+body > div.modRecList.pad_c > div > div > div.col-sm-4.sm_top_line.col-md-3 > div > ul > li:nth-child(19) > a
+body > div.art_block.pad_a.revealOnScroll.anim-section > div > div > div:nth-child(1) > div > div.photo > a
+body > div.art_block.pad_a.revealOnScroll.anim-section > div > div > div:nth-child(1) > div > h4 > a
+body > div.art_block.pad_a.revealOnScroll.anim-section > div > div > div:nth-child(2) > div > div.photo > a
+body > div.art_block.pad_a.revealOnScroll.anim-section > div > div > div:nth-child(2) > div > h4 > a
+body > div.art_block.pad_a.revealOnScroll.anim-section > div > div > div:nth-child(3) > div > div.photo > a
+body > div.art_block.pad_a.revealOnScroll.anim-section > div > div > div:nth-child(3) > div > h4 > a
+body > div.art_block.pad_a.revealOnScroll.anim-section > div > div > div:nth-child(4) > div > div.photo > a
+body > div.art_block.pad_a.revealOnScroll.anim-section > div > div > div:nth-child(4) > div > h4 > a
+body > div.art_block.pad_a.bg-color.revealOnScroll.anim-section > div > div > div:nth-child(1) > div > div.photo > a
+body > div.art_block.pad_a.bg-color.revealOnScroll.anim-section > div > div > div:nth-child(1) > div > div.subhead > em > a
+body > div.art_block.pad_a.bg-color.revealOnScroll.anim-section > div > div > div:nth-child(1) > div > h4 > a
+body > div.art_block.pad_a.bg-color.revealOnScroll.anim-section > div > div > div:nth-child(2) > div > div.photo > a
+body > div.art_block.pad_a.bg-color.revealOnScroll.anim-section > div > div > div:nth-child(2) > div > div.subhead > em > a
+body > div.art_block.pad_a.bg-color.revealOnScroll.anim-section > div > div > div:nth-child(2) > div > h4 > a
+body > div.art_block.pad_a.bg-color.revealOnScroll.anim-section > div > div > div:nth-child(3) > div > div.photo > a
+body > div.art_block.pad_a.bg-color.revealOnScroll.anim-section > div > div > div:nth-child(3) > div > div.subhead > em > a
+body > div.art_block.pad_a.bg-color.revealOnScroll.anim-section > div > div > div:nth-child(3) > div > h4 > a
+body > div.art_block.pad_a.bg-color.revealOnScroll.anim-section > div > div > div:nth-child(4) > div > div.photo > a
+body > div.art_block.pad_a.bg-color.revealOnScroll.anim-section > div > div > div:nth-child(4) > div > div.subhead > em > a
+body > div.art_block.pad_a.bg-color.revealOnScroll.anim-section > div > div > div:nth-child(4) > div > h4 > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(1) > strong > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(1) > ul > li:nth-child(1) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(1) > ul > li:nth-child(2) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(1) > ul > li:nth-child(3) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(1) > ul > li:nth-child(4) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(1) > ul > li:nth-child(5) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(1) > ul > li:nth-child(6) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(1) > ul > li:nth-child(7) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(1) > ul > li:nth-child(8) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(1) > ul > li:nth-child(9) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(1) > ul > li:nth-child(10) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(1) > ul > li:nth-child(11) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(1) > ul > li:nth-child(12) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(1) > ul > li:nth-child(13) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(1) > ul > li:nth-child(14) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(1) > ul > li:nth-child(15) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(2) > strong > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(2) > ul > li:nth-child(1) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(2) > ul > li:nth-child(2) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(2) > ul > li:nth-child(3) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(2) > ul > li:nth-child(4) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(2) > ul > li:nth-child(5) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(2) > ul > li:nth-child(6) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(2) > ul > li:nth-child(7) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(2) > ul > li:nth-child(8) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(1) > div:nth-child(2) > ul > li:nth-child(9) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(1) > strong > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(1) > ul > li:nth-child(1) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(1) > ul > li:nth-child(2) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(1) > ul > li:nth-child(3) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(1) > ul > li:nth-child(4) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(1) > ul > li:nth-child(5) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(2) > strong > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(2) > ul > li:nth-child(1) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(2) > ul > li:nth-child(2) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(2) > ul > li:nth-child(3) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(3) > strong > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(3) > ul > li:nth-child(1) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(3) > ul > li:nth-child(2) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > strong > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(1) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(2) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(3) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(4) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(5) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(6) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(7) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(8) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(9) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(10) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(11) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(12) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(13) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(14) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(15) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(16) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(2) > div:nth-child(4) > ul > li:nth-child(17) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(1) > strong > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(1) > ul > li:nth-child(1) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(1) > ul > li:nth-child(2) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(1) > ul > li:nth-child(3) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(2) > strong > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(2) > ul > li:nth-child(1) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(2) > ul > li:nth-child(2) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(2) > ul > li:nth-child(3) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(2) > ul > li:nth-child(4) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(2) > ul > li:nth-child(5) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(2) > ul > li:nth-child(6) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(2) > ul > li:nth-child(7) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(2) > ul > li:nth-child(8) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(3) > strong > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(3) > ul > li:nth-child(1) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(3) > ul > li:nth-child(2) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(4) > strong > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(4) > ul > li:nth-child(1) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(4) > ul > li:nth-child(2) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(4) > ul > li:nth-child(3) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(4) > ul > li:nth-child(4) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(4) > ul > li:nth-child(5) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(3) > div:nth-child(4) > ul > li:nth-child(6) > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(4) > div:nth-child(1) > strong > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(4) > div:nth-child(2) > strong > a
+body > #page_f > div.bot-menu.hidden-xs.hidden-sm > div > div > div:nth-child(4) > div:nth-child(3) > div > a
+body > #page_f > div.credits > div > div.smedia-btns.visible-xs-block.visible-sm-block > a
+body > #page_f > div.credits > div > div.row > div.col-sm-6.sm_centered.sm_mar_top_c.bot-txt.bd > a:nth-child(1)
+body > #page_f > div.credits > div > div.row > div.col-sm-6.sm_centered.sm_mar_top_c.bot-txt.bd > a:nth-child(2)
