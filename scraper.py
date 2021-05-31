@@ -9,13 +9,13 @@ import urllib.parse
 from utils import getCssPath 
 
 
-# async def main(request_url):
-#     browser = await launch(headless=True)
-#     page = await browser.newPage()
-#     await page.goto(request_url)
-#     content = await page.content()
-#     await browser.close()
-#     return content
+async def main(request_url):
+    browser = await launch(headless=True)
+    page = await browser.newPage()
+    await page.goto(request_url)
+    content = await page.content()
+    await browser.close()
+    return content
 
 
 def css_path(element):
